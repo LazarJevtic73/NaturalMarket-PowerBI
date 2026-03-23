@@ -1,7 +1,8 @@
 # NaturalMarket-PowerBI
 
 <img width="1273" height="707" alt="image" src="https://github.com/user-attachments/assets/c7ff5288-0490-43bf-a0d6-042938b11199" />
-
+<br>
+<br>
 
 In this Power BI assignment, I handled the full data preparation and transformation workflow for Natural Market, a retail chain operating in the USA, Mexico, and Canada. The main goal was to clean, merge, and enrich multiple datasets so that they could support detailed reporting and analytics. Below is an overview of the main steps and techniques applied during the process.
 
